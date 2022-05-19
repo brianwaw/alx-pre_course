@@ -1,1 +1,1 @@
-my fist readme
+## an altered version from the main branch. 
